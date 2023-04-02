@@ -1,15 +1,22 @@
-
-.first{
-	background-color:rgb(0, 0,110);
-	color:white;
-	width:200px;
-	height:800px;
-	padding:15px 15px;
-	float:left;
+/* 创建并排的三个非等列 */
+.first {
+	background-color: rgb(26, 43, 61);
+	color: white;
+	width: 200px;
+	height: 800px;
+	float: left;
+	padding: 10px 15px;
 }
-.second{
-	width:500px;
-	height:800px;
-	padding:15px 25px;
-	float:left;
+
+.second {
+	width: 80%;
+	/*height: 800px;*/
+	float: left;
+	padding: 50px 15px;
+}
+
+.footer {
+	background-color: white;
+	padding: 10px;
+	text-align: center;
 }
